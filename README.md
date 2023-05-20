@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Mohaimenur Rahman</h1>
 <h3 align="center" style="color: blue;">A passionate SQA and Data Analyst</h3>
-<img align="right" width=370 alt="sqa" src="https://cdn.gcn.com/media/img/cd/2021/12/13/bugbounty2-1/route-fifty-lead-image.png?1639389032">
+<img align="right" width=400 alt="sqa" src="https://cdn.gcn.com/media/img/cd/2021/12/13/bugbounty2-1/route-fifty-lead-image.png?1639389032">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohaimenur&label=Profile%20views&color=0e75b6&style=flat" alt="mohaimenur" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Automation & Cypress**
 
-- 💬 Ask me about **Manual Testing, API Testing & Automation Testing**
+- 💬 Ask me about **Manual Testing, API Testing, Performance Testing & Automation Testing**
 
 - 📫 How to reach me **mdrahmanmohaimenur@gmail.com**
 
